@@ -1,0 +1,3 @@
+data: data
+# server: wss://localhost:8080/streamer/test
+server: ws://localhost:8080/streamer/test
